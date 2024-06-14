@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gawronnn&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gawronnn&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+https://github-readme-streak-stats.herokuapp.com/?user=Gawronnn&theme=dracula&hide_border=true
